@@ -1,0 +1,8 @@
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\bin\Debug\InflationRateResults.exe
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\bin\Debug\InflationRateResults.pdb
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\bin\Debug\InflationRateResults.InflationRateResults_Program1.idy
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\obj\Debug\InflationRateResults.cblprojAssemblyReference.cache
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\obj\Debug\InflationRateResults.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\obj\Debug\InflationRateResults.InflationRateResults_Program1.idy
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\obj\Debug\InflationRateResults.exe
+E:\COBOL Stuff\InflationRateResults\InflationRateResults\obj\Debug\InflationRateResults.pdb

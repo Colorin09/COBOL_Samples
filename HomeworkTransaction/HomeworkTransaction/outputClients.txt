@@ -1,0 +1,8 @@
+
+     NAME     DATE OF TRANSACTION   AMOUNT OF TRANSACTION
+
+P.W.Newman          01/2014           $  1,250
+E.U.Redford         06/2014           $123,456
+N.B.Taylor          04/2014           $ 10,000
+D.I.Stern           09/2014           $ 20,000
+O.D.Hammel          07/2014           $165,450

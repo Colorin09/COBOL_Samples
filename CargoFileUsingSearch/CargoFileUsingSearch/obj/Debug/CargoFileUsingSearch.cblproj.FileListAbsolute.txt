@@ -1,0 +1,8 @@
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\bin\Debug\CargoFileUsingSearch.exe
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\bin\Debug\CargoFileUsingSearch.pdb
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\bin\Debug\CargoFileUsingSearch.CargoFileUsingSearch_Program1.idy
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\obj\Debug\CargoFileUsingSearch.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\obj\Debug\CargoFileUsingSearch.CargoFileUsingSearch_Program1.idy
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\obj\Debug\CargoFileUsingSearch.exe
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\obj\Debug\CargoFileUsingSearch.pdb
+E:\COBOL Stuff\CargoFileUsingSearch\CargoFileUsingSearch\obj\Debug\CargoFileUsingSearch.cblprojAssemblyReference.cache

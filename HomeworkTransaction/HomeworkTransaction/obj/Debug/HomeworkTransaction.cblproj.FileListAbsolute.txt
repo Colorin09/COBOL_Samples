@@ -1,0 +1,8 @@
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\obj\Debug\HomeworkTransaction.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\bin\Debug\HomeworkTransaction.exe
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\bin\Debug\HomeworkTransaction.pdb
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\bin\Debug\HomeworkTransaction.HomeworkTransaction_Program1.idy
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\obj\Debug\HomeworkTransaction.HomeworkTransaction_Program1.idy
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\obj\Debug\HomeworkTransaction.exe
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\obj\Debug\HomeworkTransaction.pdb
+E:\COBOL Stuff\HomeworkTransaction\HomeworkTransaction\obj\Debug\HomeworkTransaction.cblprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\bin\Debug\CargoFileUsingBinarySearch.exe
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\bin\Debug\CargoFileUsingBinarySearch.pdb
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\bin\Debug\CargoFileUsingBinarySearch.CargoFileUsingBinarySearch_Program1.idy
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\obj\Debug\CargoFileUsingBinarySearch.cblprojAssemblyReference.cache
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\obj\Debug\CargoFileUsingBinarySearch.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\obj\Debug\CargoFileUsingBinarySearch.CargoFileUsingBinarySearch_Program1.idy
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\obj\Debug\CargoFileUsingBinarySearch.exe
+E:\COBOL Stuff\CargoFileUsingBinarySearch\CargoFileUsingBinarySearch\obj\Debug\CargoFileUsingBinarySearch.pdb

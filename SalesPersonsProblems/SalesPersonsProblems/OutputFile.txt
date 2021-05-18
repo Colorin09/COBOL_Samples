@@ -1,0 +1,33 @@
+
+
+
+
+
+                               TOTAL SALES FOR EACH SALESPERSON    06/11/2019
+
+          SALESPERSON NO.    SALESPERSON NAME         TOTAL SALES
+
+               01            Jerry                    $   230.40
+               02            Hannah                   $   250.50
+               03            Jennifer                 $   190.20
+               04            Pablo                    $   421.19
+               05            Sophy                    $   100.00
+               06            James                    $   301.00
+               07            Michael                  $   130.40
+               08            Nicholas                 $   190.20
+               09            Robby                    $   100.00
+               10            Timothy                  $   361.39
+               11            Samuel                   $   130.40
+               12            Gordon                   $   150.50
+               13            Peter                    $   130.40
+               14            Maximilian               $    90.20
+               15            Emily                    $   150.50
+               16            Jeremy                   $   230.99
+               17            Alex                     $   130.40
+               18            Garold                   $   560.04
+               19            Christopher              $   330.99
+               20            Philip                   $   180.40
+
+
+
+                                        TOTAL COMPANY SALES       $4,360.10 *

@@ -1,0 +1,6 @@
+14568Ketchup Bottle      00100
+55689PepperMint Gum      00145
+58456White Bread         00125
+45489Brocoli             00080
+33548Tomato sauce        00399
+78563Cheddar Cheese      00599

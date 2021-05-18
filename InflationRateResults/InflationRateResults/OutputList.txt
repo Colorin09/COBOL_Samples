@@ -1,0 +1,127 @@
+
+
+
+
+
+                 I N F L A T I O N   R E P O R T          06/11/2019     PAGE   1
+
+    ITEM NUMBER: 14568    ITEM DESCRIPTION:  Ketchup Bottle
+    ITEM COST:    $1.00
+
+
+            YEAR     INFLATION RATE     ITEM COST WITH INFLATION
+           1             8%                       1.08
+           2             8%                       1.17
+           3             8%                       1.26
+           4             8%                       1.36
+           5             8%                       1.47
+           6             6%                       1.56
+           7             6%                       1.65
+           8             6%                       1.75
+           9             6%                       1.85
+          10             6%                       1.97
+
+
+
+
+                 I N F L A T I O N   R E P O R T          06/11/2019     PAGE   2
+
+    ITEM NUMBER: 55689    ITEM DESCRIPTION:  PepperMint Gum
+    ITEM COST:    $1.45
+
+
+            YEAR     INFLATION RATE     ITEM COST WITH INFLATION
+           1             8%                       1.57
+           2             8%                       1.69
+           3             8%                       1.83
+           4             8%                       1.97
+           5             8%                       2.13
+           6             6%                       2.26
+           7             6%                       2.39
+           8             6%                       2.54
+           9             6%                       2.69
+          10             6%                       2.85
+
+
+
+
+                 I N F L A T I O N   R E P O R T          06/11/2019     PAGE   3
+
+    ITEM NUMBER: 58456    ITEM DESCRIPTION:  White Bread
+    ITEM COST:    $1.25
+
+
+            YEAR     INFLATION RATE     ITEM COST WITH INFLATION
+           1             8%                       1.35
+           2             8%                       1.46
+           3             8%                       1.57
+           4             8%                       1.70
+           5             8%                       1.84
+           6             6%                       1.95
+           7             6%                       2.06
+           8             6%                       2.19
+           9             6%                       2.32
+          10             6%                       2.46
+
+
+
+
+                 I N F L A T I O N   R E P O R T          06/11/2019     PAGE   4
+
+    ITEM NUMBER: 45489    ITEM DESCRIPTION:  Brocoli
+    ITEM COST:    $0.80
+
+
+            YEAR     INFLATION RATE     ITEM COST WITH INFLATION
+           1             8%                       0.86
+           2             8%                       0.93
+           3             8%                       1.01
+           4             8%                       1.09
+           5             8%                       1.18
+           6             6%                       1.25
+           7             6%                       1.32
+           8             6%                       1.40
+           9             6%                       1.48
+          10             6%                       1.57
+
+
+
+
+                 I N F L A T I O N   R E P O R T          06/11/2019     PAGE   5
+
+    ITEM NUMBER: 33548    ITEM DESCRIPTION:  Tomato sauce
+    ITEM COST:    $3.99
+
+
+            YEAR     INFLATION RATE     ITEM COST WITH INFLATION
+           1             8%                       4.31
+           2             8%                       4.65
+           3             8%                       5.03
+           4             8%                       5.43
+           5             8%                       5.86
+           6             6%                       6.21
+           7             6%                       6.59
+           8             6%                       6.98
+           9             6%                       7.40
+          10             6%                       7.85
+
+
+
+
+                 I N F L A T I O N   R E P O R T          06/11/2019     PAGE   6
+
+    ITEM NUMBER: 78563    ITEM DESCRIPTION:  Cheddar Cheese
+    ITEM COST:    $5.99
+
+
+            YEAR     INFLATION RATE     ITEM COST WITH INFLATION
+           1             8%                       6.47
+           2             8%                       6.99
+           3             8%                       7.55
+           4             8%                       8.15
+           5             8%                       8.80
+           6             6%                       9.33
+           7             6%                       9.89
+           8             6%                      10.48
+           9             6%                      11.11
+          10             6%                      11.78

@@ -1,0 +1,15 @@
+E:\COBOL Stuff\CarRent\CarRent\obj\Debug\CarRent.cblprojAssemblyReference.cache
+E:\COBOL Stuff\CarRent\CarRent\obj\Debug\CarRent.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\CarRent\CarRent\bin\Debug\CarRent.exe
+E:\COBOL Stuff\CarRent\CarRent\bin\Debug\CarRent.pdb
+E:\COBOL Stuff\CarRent\CarRent\bin\Debug\CarRent.CarRent_Program1.idy
+E:\COBOL Stuff\CarRent\CarRent\obj\Debug\CarRent.CarRent_Program1.idy
+E:\COBOL Stuff\CarRent\CarRent\obj\Debug\CarRent.exe
+E:\COBOL Stuff\CarRent\CarRent\obj\Debug\CarRent.pdb
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\bin\Debug\CarRent.exe
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\bin\Debug\CarRent.pdb
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\bin\Debug\CarRent.CarRent_Program1.idy
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\obj\Debug\CarRent.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\obj\Debug\CarRent.CarRent_Program1.idy
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\obj\Debug\CarRent.exe
+E:\COBOL Stuff\CarRentInteractiveVers\CarRent\obj\Debug\CarRent.pdb

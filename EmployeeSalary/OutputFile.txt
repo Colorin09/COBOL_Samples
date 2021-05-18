@@ -1,0 +1,19 @@
+
+
+
+
+
+                     PAYROLL REPORT                                18/09/2019
+
+
+ EMPLOYEE         NAME           OLD     NEW     OLD     NEW     OLD     NEW    
+     NO.                        SALARY  SALARY   DUES    DUES   INSUR.  INSUR.
+
+   45644  Random Names          100000  107000  450.00  468.00  454.54  468.18
+   89799  Najma Blair           250000  267500  561.00  583.44  565.65  582.62
+   13323  Jonathon Morgan       120300  128721  654.55  680.73  232.32  239.29
+   15445  Lily-Anne Hutchings    14205   15199    2.45    2.55  121.21  124.85
+   39363  Sadie Patton            1200    1284    1.40    1.46  323.23  332.93
+   48548  Freddie Cordova       500000  535000  100.00  104.00  454.54  468.18
+   24515  Leonard Tanner        789000  844230  560.50  582.92  878.78  905.14
+   17571  Darin Galloway        546000  584220  750.50  780.52  898.98  925.95

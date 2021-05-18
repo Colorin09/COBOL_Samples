@@ -1,0 +1,19 @@
+
+
+
+
+
+                              SHIPS REPORT - MARCHANDISE               22/11/2019
+
+
+            SHIP NAME               CARGO             UNITS      TOTAL VALUE      COUNTRY
+        The Broken Pearl            OIL                4000        84920.00       Canada
+        The Mad Insanity            COPPER            54000        40500.00       United Sates
+        The Howling Horror          SUGAR             12030        98044.50       Chili
+        The Fortune Howl            WHEAT             78000        87200.00       Portugal
+        The Gold                    IRON ORE          60400        34200.00       Australia
+        The Adventure Jewel         RUBBER               90          972.00       Mexico
+        The Dirty Corsair           OIL               99500        12385.00       China
+        The Liberty Disgrace        TIMBER            10000         4600.00       Vietnam
+        The Fearful Grail           BUTANE            98000        39200.00       Singapour
+        The Drunken Howl            RUBBER              600         6480.00       Germany

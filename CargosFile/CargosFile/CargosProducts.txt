@@ -1,0 +1,10 @@
+The Broken Pearl    OIL       04000Canada        
+The Mad Insanity    COPPER    54000United Sates  
+The Howling Horror  SUGAR     12030Chili         
+The Fortune Howl    WHEAT     78000Portugal      
+The Gold            IRON ORE  60400Australia     
+The Adventure Jewel RUBBER    00090Mexico        
+The Dirty Corsair   OIL       99500China         
+The Liberty DisgraceTIMBER    10000Vietnam       
+The Fearful Grail   BUTANE    98000Singapour     
+The Drunken Howl    RUBBER    00600Germany       

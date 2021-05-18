@@ -1,0 +1,8 @@
+E:\COBOL Stuff\CargosFile\CargosFile\bin\Debug\CargosFile.exe
+E:\COBOL Stuff\CargosFile\CargosFile\bin\Debug\CargosFile.pdb
+E:\COBOL Stuff\CargosFile\CargosFile\bin\Debug\CargosFile.CargosFile_Program1.idy
+E:\COBOL Stuff\CargosFile\CargosFile\obj\Debug\CargosFile.cblprojAssemblyReference.cache
+E:\COBOL Stuff\CargosFile\CargosFile\obj\Debug\CargosFile.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\CargosFile\CargosFile\obj\Debug\CargosFile.CargosFile_Program1.idy
+E:\COBOL Stuff\CargosFile\CargosFile\obj\Debug\CargosFile.exe
+E:\COBOL Stuff\CargosFile\CargosFile\obj\Debug\CargosFile.pdb

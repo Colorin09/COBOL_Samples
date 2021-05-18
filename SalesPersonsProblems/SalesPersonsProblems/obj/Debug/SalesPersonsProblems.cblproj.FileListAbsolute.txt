@@ -1,0 +1,8 @@
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\bin\Debug\SalesPersonsProblems.exe
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\bin\Debug\SalesPersonsProblems.pdb
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\bin\Debug\SalesPersonsProblems.SalesPersonsProblems_Program1.idy
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\obj\Debug\SalesPersonsProblems.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\obj\Debug\SalesPersonsProblems.SalesPersonsProblems_Program1.idy
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\obj\Debug\SalesPersonsProblems.exe
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\obj\Debug\SalesPersonsProblems.pdb
+E:\COBOL Stuff\SalesPersonsProblems\SalesPersonsProblems\obj\Debug\SalesPersonsProblems.cblprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.EmployeeSalary_Program1.idy
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.cblprojAssemblyReference.cache
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.cblproj.CoreCompileInputs.cache
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.EmployeeSalary_Program1.idy
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+E:\COBOL Stuff\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb

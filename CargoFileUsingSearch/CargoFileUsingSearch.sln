@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "CargoFileUsingSearch", "CargoFileUsingSearch\CargoFileUsingSearch.cblproj", "{6261635A-E728-4E84-8E91-E4ADFEA48B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6261635A-E728-4E84-8E91-E4ADFEA48B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6261635A-E728-4E84-8E91-E4ADFEA48B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6261635A-E728-4E84-8E91-E4ADFEA48B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6261635A-E728-4E84-8E91-E4ADFEA48B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F041B2CB-C122-49C5-881B-072C236D2A2C}
+	EndGlobalSection
+EndGlobal
